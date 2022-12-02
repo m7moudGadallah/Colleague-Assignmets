@@ -1,0 +1,8 @@
+E:\Colleague\3.Year3\Data Structure\programs\DrHana\Assignmet1\StackUsingLinkedList\StackUsingLinkedList\bin\Debug\StackUsingLinkedList.exe.config
+E:\Colleague\3.Year3\Data Structure\programs\DrHana\Assignmet1\StackUsingLinkedList\StackUsingLinkedList\bin\Debug\StackUsingLinkedList.exe
+E:\Colleague\3.Year3\Data Structure\programs\DrHana\Assignmet1\StackUsingLinkedList\StackUsingLinkedList\bin\Debug\StackUsingLinkedList.pdb
+E:\Colleague\3.Year3\Data Structure\programs\DrHana\Assignmet1\StackUsingLinkedList\StackUsingLinkedList\obj\Debug\StackUsingLinkedList.csproj.AssemblyReference.cache
+E:\Colleague\3.Year3\Data Structure\programs\DrHana\Assignmet1\StackUsingLinkedList\StackUsingLinkedList\obj\Debug\StackUsingLinkedList.csproj.SuggestedBindingRedirects.cache
+E:\Colleague\3.Year3\Data Structure\programs\DrHana\Assignmet1\StackUsingLinkedList\StackUsingLinkedList\obj\Debug\StackUsingLinkedList.csproj.CoreCompileInputs.cache
+E:\Colleague\3.Year3\Data Structure\programs\DrHana\Assignmet1\StackUsingLinkedList\StackUsingLinkedList\obj\Debug\StackUsingLinkedList.exe
+E:\Colleague\3.Year3\Data Structure\programs\DrHana\Assignmet1\StackUsingLinkedList\StackUsingLinkedList\obj\Debug\StackUsingLinkedList.pdb
