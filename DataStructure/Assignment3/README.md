@@ -4,7 +4,7 @@
 - `MinHeap` class
 - `MaxHeap` class
 
-### Heap class
+### [Heap class](./heap_Assignment/heap_Assignment/TestDriver.cs)
 - is an abstract class thta contains all attributes methods of heap
     - `parent(node)`: to get index of node`s parent
     - `rightNode(node)`: to get index of node`s right child
@@ -18,12 +18,16 @@
     - `printHeap()`: print Heap Nodes
     - `insert(ele)`: insert a new element to Heap
     - `delete()`: remove top of Heap
-    - `reheapUP(node)`: abstract method which will implemented with [MinHeap]() & [MaxHeap](),is used to reheaping after insertion
-    - `reheapDown(node)`: abstract method  which will implemented with [MinHeap]() & [MaxHeap]() ,is used to reheaping after deletation
+    - `reheapUP(node)`: abstract method which will implemented with [MinHeap](https://github.com/m7moudGadallah/Colleague-Assignmets/tree/main/DataStructure/Assignment3#minheap) & [MaxHeap](https://github.com/m7moudGadallah/Colleague-Assignmets/tree/main/DataStructure/Assignment3#maxheap),is used to reheaping after insertion
+    - `reheapDown(node)`: abstract method  which will implemented with [MinHeap](https://github.com/m7moudGadallah/Colleague-Assignmets/tree/main/DataStructure/Assignment3#minheap) & [MaxHeap](https://github.com/m7moudGadallah/Colleague-Assignmets/tree/main/DataStructure/Assignment3#maxheap) ,is used to reheaping after deletation
 
-### MinHeap
+### [MinHeap]((./heap_Assignment/heap_Assignment/TestDriver.cs))
 - this class associated with min Heap so it inhertes Heap class and implements `reheapUP(node)` and `reheapDown(node)` methods
 
 
-### MaxHeap
+### [MaxHeap]((./heap_Assignment/heap_Assignment/TestDriver.cs))
 - this class associated with max Heap so it inhertes Heap class and implements `reheapUP(node)` and `reheapDown(node)` methods
+
+
+### Testing Class
+![Testing](./testing.png)
