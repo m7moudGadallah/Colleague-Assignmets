@@ -22,11 +22,11 @@
     - `reheapUP(node)`: abstract method which will implemented with [MinHeap](https://github.com/m7moudGadallah/Colleague-Assignmets/tree/main/DataStructure/Assignment3#minheap) & [MaxHeap](https://github.com/m7moudGadallah/Colleague-Assignmets/tree/main/DataStructure/Assignment3#maxheap),is used to reheaping after insertion
     - `reheapDown(node)`: abstract method  which will implemented with [MinHeap](https://github.com/m7moudGadallah/Colleague-Assignmets/tree/main/DataStructure/Assignment3#minheap) & [MaxHeap](https://github.com/m7moudGadallah/Colleague-Assignmets/tree/main/DataStructure/Assignment3#maxheap) ,is used to reheaping after deletation
 
-### [MinHeap]((./heap_Assignment/heap_Assignment/TestDriver.cs))
+### [MinHeap](./heap_Assignment/heap_Assignment/TestDriver.cs)
 - this class associated with min Heap so it inhertes Heap class and implements `reheapUP(node)` and `reheapDown(node)` methods
 
 
-### [MaxHeap]((./heap_Assignment/heap_Assignment/TestDriver.cs))
+### [MaxHeap](./heap_Assignment/heap_Assignment/TestDriver.cs)
 - this class associated with max Heap so it inhertes Heap class and implements `reheapUP(node)` and `reheapDown(node)` methods
 
 
