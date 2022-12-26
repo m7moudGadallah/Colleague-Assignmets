@@ -1,0 +1,8 @@
+E:\Colleague\3.Year3\Data Structure\programs\Assignment3\heap_Assignment\heap_Assignment\bin\Debug\heap_Assignment.exe.config
+E:\Colleague\3.Year3\Data Structure\programs\Assignment3\heap_Assignment\heap_Assignment\bin\Debug\heap_Assignment.exe
+E:\Colleague\3.Year3\Data Structure\programs\Assignment3\heap_Assignment\heap_Assignment\bin\Debug\heap_Assignment.pdb
+E:\Colleague\3.Year3\Data Structure\programs\Assignment3\heap_Assignment\heap_Assignment\obj\Debug\heap_Assignment.csproj.AssemblyReference.cache
+E:\Colleague\3.Year3\Data Structure\programs\Assignment3\heap_Assignment\heap_Assignment\obj\Debug\heap_Assignment.csproj.SuggestedBindingRedirects.cache
+E:\Colleague\3.Year3\Data Structure\programs\Assignment3\heap_Assignment\heap_Assignment\obj\Debug\heap_Assignment.csproj.CoreCompileInputs.cache
+E:\Colleague\3.Year3\Data Structure\programs\Assignment3\heap_Assignment\heap_Assignment\obj\Debug\heap_Assignment.exe
+E:\Colleague\3.Year3\Data Structure\programs\Assignment3\heap_Assignment\heap_Assignment\obj\Debug\heap_Assignment.pdb
